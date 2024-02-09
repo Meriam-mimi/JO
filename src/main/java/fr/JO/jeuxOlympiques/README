@@ -1,0 +1,10 @@
+##############
+##Spectateur##
+##############
+GET : http://localhost:8080/spectateurs
+POST : http://localhost:8080/spectateurs
+POST : http://localhost:8080/spectateurs/
+
+PUT : http://localhost:8080/spectateurs/idSpec
+DELETE : http://localhost:8080/spectateurs/idSpec
+UPDATE : http://localhost:8080/spectateurs/idSpec
